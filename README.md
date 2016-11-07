@@ -1,6 +1,7 @@
 Utilice....
 
 # Angular QuickStart
+This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
 
 #importante para tener acceso a la API
  * Crear un proyecto en https://github.com/settings/developers
@@ -8,14 +9,6 @@ Utilice....
  * En la linea  `private client_id = ''; ` poner el `client_id` que te da https://github.com/settings/developers
  * En la linea `private client_secret = ''; ` poner el `client_secret` que te da https://github.com/settings/developers
  * En la linea `this.username = ''` Poner tu nombre de usuario
-
-
-This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
-the foundation for most of the documentation samples and potentially a good starting point for your application.
-
-
-We are unlikely to accept suggestions about how to grow this QuickStart into something it is not.
-Please keep that in mind before posting issues and PRs.
 
 ## Prerequisites
 
