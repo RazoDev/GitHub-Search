@@ -5,9 +5,9 @@ Utilice....
 #importante para tener acceso a la API
  * Crear un proyecto en https://github.com/settings/developers
  * poner en *github.service.ts* que esta en app/services --Lo siguiente.
- * En la linea ## private client_id = ''; --poner  * client_id que te da https://github.com/settings/developers
- * private client_secret = ''; ## poner el client_secret que te da https://github.com/settings/developers
- * this.username = '' ## Poner tu nombre de usuario
+ * En la linea  `private client_id = ''; ` poner el `client_id` que te da https://github.com/settings/developers
+  * En la linea`private client_secret = ''; ` poner el `client_secret` que te da https://github.com/settings/developers
+ * En la linea `this.username = ''` Poner tu nombre de usuario
 
 
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
