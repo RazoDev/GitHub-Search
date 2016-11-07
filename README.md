@@ -5,6 +5,8 @@ This repository holds the TypeScript source code of the [angular.io quickstart](
 
 #importante para tener acceso a la API
  * Crear un proyecto en https://github.com/settings/developers
+ * Poner en `Homepage URL` y `Authorization callback URL` http://localhost:3000 (que es donde corre el servidor de angular) esto en https://github.com/settings/developers
+ ----------------------------------------------------------------------
  * Poner en `github.service.ts` que esta en app/services --Lo siguiente.
  * En la linea  `private client_id = ''; ` poner el `client_id` que te da https://github.com/settings/developers
  * En la linea `private client_secret = ''; ` poner el `client_secret` que te da https://github.com/settings/developers
